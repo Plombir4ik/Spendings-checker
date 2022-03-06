@@ -1,5 +1,5 @@
 {
-    "port" : 5000,
-    "jwtSecret" : "kpk softServe token",
-    "mongoUri" : "mongodb+srv://plombir:mamatato1234@cluster0.lpabj.mongodb.net/app?retryWrites=true&w=majority"
+    "port" : your PORT,
+    "jwtSecret" : "your SECRET",
+    "mongoUri" : "YOUR URL"
 }
